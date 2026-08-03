@@ -19,12 +19,3 @@ Apache Spark (PySpark)
 Spark MLlib (pyspark.ml)
 Dataset
 
-The script expects a CSV file named tweets.csv in the project root, with the following columns (no header row):
-
-Column	    Description
-sentiment   0 = negative, 4 = positive (raw)
-id	    Tweet ID
-date	    Date of the tweet
-query	    Query used (if any)
-user	    Username
-tweet	    Tweet text
